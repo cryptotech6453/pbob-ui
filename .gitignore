@@ -7,3 +7,9 @@ yarn.lock
 # Сборка проекта
 dist/
 build/
+
+# IDE и системные файлы
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
